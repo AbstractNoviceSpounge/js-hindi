@@ -30,3 +30,12 @@ const myFunction = function(){
         console.log("Hello worlds");
         
 }
+
+
+
+
+
+// ******************************** MEMORY TYPE *********************************
+// 2 TYPES -> stack(in primitive) and heap(in non primitive)
+
+let myYoutubeName = "kahani"
